@@ -37,3 +37,4 @@ teste('calculaDesconto', () => {
 
   verifiqueSe(retornado).ehExatamenteIgualA(esperado);
 });
+
